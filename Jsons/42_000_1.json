@@ -1,0 +1,907 @@
+{
+    "image_info": {
+        "fileID": "000",
+        "file_name": "42_000.png",
+        "file_type": "png",
+        "floor_num": "0",
+        "structure_id": "999",
+        "height": 1002,
+        "width": 956,
+        "path": "Output_Logs/Denoised_Images/42_000.jpeg",
+        "version": 1,
+        "model_path": "Outputs/3D_Floors/42_000_1.glb",
+        "blend_path": "Outputs/Blends/42_000_1.blend",
+        "type": "RGB"
+    },
+    "model": {
+        "furnitures": [
+            {
+                "object_id": "9ea60083-0901-4dde-86a1-8945b3f9ac66",
+                "bounding_box_points": {
+                    "initialY": 835,
+                    "initialX": 493,
+                    "finalY": 869,
+                    "finalX": 526
+                },
+                "category_id": 1,
+                "category_type": "armchair2",
+                "object_confidence_score": 0.9,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    0.0
+                ],
+                "centre_x": 509.5,
+                "centre_y": -852.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "55d2ef81-4f61-480b-8b58-d3a754f2f12b",
+                "bounding_box_points": {
+                    "initialY": 31,
+                    "initialX": 695,
+                    "finalY": 257,
+                    "finalX": 792
+                },
+                "category_id": 9,
+                "category_type": "sofa2",
+                "object_confidence_score": 0.91,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    -4.700194462936437
+                ],
+                "centre_x": 743.5,
+                "centre_y": -144.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "e849daed-a9a1-4b04-a54b-b2b929fc1c9c",
+                "bounding_box_points": {
+                    "initialY": 835,
+                    "initialX": 553,
+                    "finalY": 869,
+                    "finalX": 585
+                },
+                "category_id": 1,
+                "category_type": "armchair2",
+                "object_confidence_score": 0.91,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    0.0
+                ],
+                "centre_x": 569.0,
+                "centre_y": -852.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "21c8865e-8a59-4cd9-9e88-f015f06483d0",
+                "bounding_box_points": {
+                    "initialY": 33,
+                    "initialX": 254,
+                    "finalY": 259,
+                    "finalX": 350
+                },
+                "category_id": 9,
+                "category_type": "sofa2",
+                "object_confidence_score": 0.92,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    -1.5937807842363487
+                ],
+                "centre_x": 302.0,
+                "centre_y": -146.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "a600cbf5-aef4-4d26-a8fc-d639026051ce",
+                "bounding_box_points": {
+                    "initialY": 866,
+                    "initialX": 461,
+                    "finalY": 942,
+                    "finalX": 620
+                },
+                "category_id": 11,
+                "category_type": "table2",
+                "object_confidence_score": 0.93,
+                "detection_source": "symbols",
+                "orientation": [
+                    1.5707963267948966,
+                    0,
+                    0
+                ],
+                "centre_x": 540.5,
+                "centre_y": -904.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "453cf8e0-8e99-4366-806e-5434caba29a1",
+                "bounding_box_points": {
+                    "initialY": 194,
+                    "initialX": 380,
+                    "finalY": 296,
+                    "finalX": 623
+                },
+                "category_id": 9,
+                "category_type": "sofa2",
+                "object_confidence_score": 0.93,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    -3.141592653589793
+                ],
+                "centre_x": 501.5,
+                "centre_y": -245.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "cd7cda18-301a-4f1e-82a4-ac93d3562d09",
+                "bounding_box_points": {
+                    "initialY": 459,
+                    "initialX": 462,
+                    "finalY": 631,
+                    "finalX": 537
+                },
+                "category_id": 13,
+                "category_type": "tub",
+                "object_confidence_score": 0.93,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    0
+                ],
+                "centre_x": 499.5,
+                "centre_y": -545.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "84ce5fdc-c46b-441e-a314-0d9bc786d857",
+                "bounding_box_points": {
+                    "initialY": 460,
+                    "initialX": 651,
+                    "finalY": 628,
+                    "finalX": 729
+                },
+                "category_id": 13,
+                "category_type": "tub",
+                "object_confidence_score": 0.94,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    0
+                ],
+                "centre_x": 690.0,
+                "centre_y": -544.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "947e1726-44d2-433c-a164-484099054831",
+                "bounding_box_points": {
+                    "initialY": 883,
+                    "initialX": 779,
+                    "finalY": 952,
+                    "finalX": 915
+                },
+                "category_id": 7,
+                "category_type": "sink3",
+                "object_confidence_score": 0.94,
+                "detection_source": "symbols",
+                "orientation": [
+                    1.5707963267948966,
+                    0,
+                    0
+                ],
+                "centre_x": 847.0,
+                "centre_y": -917.5,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "71af4f9d-ac8c-4195-9f8d-6b904f7c3ac3",
+                "bounding_box_points": {
+                    "initialY": 415,
+                    "initialX": 816,
+                    "finalY": 580,
+                    "finalX": 919
+                },
+                "category_id": 2,
+                "category_type": "bed",
+                "object_confidence_score": 0.94,
+                "detection_source": "symbols",
+                "orientation": [
+                    4.71238898038469,
+                    3.141592653589793,
+                    -0.013332543294145793
+                ],
+                "centre_x": 867.5,
+                "centre_y": -497.5,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "8fde8a2b-1a38-45c6-abb3-650fed83650b",
+                "bounding_box_points": {
+                    "initialY": 941,
+                    "initialX": 492,
+                    "finalY": 974,
+                    "finalX": 527
+                },
+                "category_id": 1,
+                "category_type": "armchair2",
+                "object_confidence_score": 0.94,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    3.108271657711546
+                ],
+                "centre_x": 509.5,
+                "centre_y": -957.5,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "6030cb3c-e37c-45dd-8b5c-545c5bd0be68",
+                "bounding_box_points": {
+                    "initialY": 331,
+                    "initialX": 509,
+                    "finalY": 457,
+                    "finalX": 620
+                },
+                "category_id": 3,
+                "category_type": "door1",
+                "object_confidence_score": 0.95,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    0
+                ],
+                "centre_x": 564.5,
+                "centre_y": -394.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "f15f0334-fcf0-4e8a-b65d-f21f39c255d6",
+                "bounding_box_points": {
+                    "initialY": 138,
+                    "initialX": 0,
+                    "finalY": 254,
+                    "finalX": 131
+                },
+                "category_id": 3,
+                "category_type": "door1",
+                "object_confidence_score": 0.95,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    0
+                ],
+                "centre_x": 65.5,
+                "centre_y": -196.0,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "237591c4-b20d-4f00-b911-fa0d2055cfba",
+                "bounding_box_points": {
+                    "initialY": 941,
+                    "initialX": 552,
+                    "finalY": 974,
+                    "finalX": 586
+                },
+                "category_id": 1,
+                "category_type": "armchair2",
+                "object_confidence_score": 0.95,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    3.141592653589793
+                ],
+                "centre_x": 569.0,
+                "centre_y": -957.5,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "14500230-d97c-4eac-ad7d-cea8e760ddf3",
+                "bounding_box_points": {
+                    "initialY": 716,
+                    "initialX": 620,
+                    "finalY": 843,
+                    "finalX": 734
+                },
+                "category_id": 3,
+                "category_type": "door1",
+                "object_confidence_score": 0.95,
+                "detection_source": "symbols",
+                "orientation": [
+                    0,
+                    0,
+                    0
+                ],
+                "centre_x": 677.0,
+                "centre_y": -779.5,
+                "centre_z": 12.525
+            },
+            {
+                "object_id": "a108c7dc-37ee-4ce0-adac-f214771fd817",
+                "bounding_box_points": {
+                    "initialY": 78,
+                    "initialX": 515,
+                    "finalY": 165,
+                    "finalX": 602
+                },
+                "category_id": 10,
+                "category_type": "table1",
+                "object_confidence_score": 0.97,
+                "detection_source": "symbols",
+                "orientation": [
+                    1.5707963267948966,
+                    0,
+                    0
+                ],
+                "centre_x": 558.5,
+                "centre_y": -121.5,
+                "centre_z": 12.525
+            }
+        ],
+        "structure": [
+            {
+                "object_id": "5fbc0cef-d128-4d2b-82fc-e023c6ea737a",
+                "object_confidence_score": 0.36,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 369.0,
+                        "y_coord": 1.0
+                    },
+                    {
+                        "x_coord": 929.0,
+                        "y_coord": 1.0
+                    },
+                    {
+                        "x_coord": 929.0,
+                        "y_coord": 16.0
+                    },
+                    {
+                        "x_coord": 369.0,
+                        "y_coord": 16.0
+                    }
+                ],
+                "top_wall_obj_id": "56aa03f8-f7ad-45c8-b851-cbfa33ecf34b",
+                "bottom_wall_obj_id": "196ecd0f-c2a0-41af-bb63-0ab6f34f160d",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "64554632-1239-4405-acb7-45e282da9839",
+                "object_confidence_score": 0.45,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 398.0,
+                        "y_coord": 282.0
+                    },
+                    {
+                        "x_coord": 608.0,
+                        "y_coord": 282.0
+                    },
+                    {
+                        "x_coord": 608.0,
+                        "y_coord": 296.0
+                    },
+                    {
+                        "x_coord": 398.0,
+                        "y_coord": 296.0
+                    }
+                ],
+                "top_wall_obj_id": "e1586673-53ef-4d1a-aaeb-7cfaad9e2ae7",
+                "bottom_wall_obj_id": "0e5e8414-5139-4d43-9706-51f37c591e3d",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "2b663d4b-a77a-4e3d-b7d6-33224a30be28",
+                "object_confidence_score": 0.46,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 941.0,
+                        "y_coord": 0.0
+                    },
+                    {
+                        "x_coord": 955.0,
+                        "y_coord": 0.0
+                    },
+                    {
+                        "x_coord": 955.0,
+                        "y_coord": 608.0
+                    },
+                    {
+                        "x_coord": 941.0,
+                        "y_coord": 608.0
+                    }
+                ],
+                "top_wall_obj_id": "54615bbb-189b-4fae-ad19-82c81389ec33",
+                "bottom_wall_obj_id": "b273ad67-d35e-477f-aa7e-688ab597489f",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "26b73de7-c2e5-4724-ab69-82bdfb8ac328",
+                "object_confidence_score": 0.47,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 44.0,
+                        "y_coord": 1.0
+                    },
+                    {
+                        "x_coord": 584.0,
+                        "y_coord": 1.0
+                    },
+                    {
+                        "x_coord": 584.0,
+                        "y_coord": 15.0
+                    },
+                    {
+                        "x_coord": 44.0,
+                        "y_coord": 15.0
+                    }
+                ],
+                "top_wall_obj_id": "f7992c35-481e-4ce2-9423-506ee9e2f69a",
+                "bottom_wall_obj_id": "0ee17ece-b51d-4c36-bd45-4905da1f7ad5",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "35184a9f-8a1c-4d4e-8996-4eaca7b70be0",
+                "object_confidence_score": 0.52,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 941.0,
+                        "y_coord": 319.0
+                    },
+                    {
+                        "x_coord": 955.0,
+                        "y_coord": 319.0
+                    },
+                    {
+                        "x_coord": 955.0,
+                        "y_coord": 971.0
+                    },
+                    {
+                        "x_coord": 941.0,
+                        "y_coord": 971.0
+                    }
+                ],
+                "top_wall_obj_id": "0c8f8a6d-4711-4e0e-b7ca-54008535586f",
+                "bottom_wall_obj_id": "de8bc1d4-d89c-4904-a4eb-906cab3a429e",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "fc7f468c-254a-4afd-b0f5-f20b2c64bc05",
+                "object_confidence_score": 0.59,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 424.0,
+                        "y_coord": 330.0
+                    },
+                    {
+                        "x_coord": 440.0,
+                        "y_coord": 330.0
+                    },
+                    {
+                        "x_coord": 440.0,
+                        "y_coord": 1002.0
+                    },
+                    {
+                        "x_coord": 424.0,
+                        "y_coord": 1002.0
+                    }
+                ],
+                "top_wall_obj_id": "9a8073ce-d9f0-4252-bff5-4efb5102ec48",
+                "bottom_wall_obj_id": "68e11155-92fc-46f5-850d-70c5cae8ca98",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "08750209-1d1a-491c-80dd-e09a4e3f3b9b",
+                "object_confidence_score": 0.63,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 502.0,
+                        "y_coord": 332.0
+                    },
+                    {
+                        "x_coord": 511.0,
+                        "y_coord": 332.0
+                    },
+                    {
+                        "x_coord": 511.0,
+                        "y_coord": 353.0
+                    },
+                    {
+                        "x_coord": 502.0,
+                        "y_coord": 353.0
+                    }
+                ],
+                "top_wall_obj_id": "6272fdf9-e282-4016-a257-f632fdf8c52b",
+                "bottom_wall_obj_id": "069f212f-cc4f-4993-8dd5-bdd982229ef3",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "99c5c895-60d9-480d-b3ff-14048122e880",
+                "object_confidence_score": 0.68,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 0.0,
+                        "y_coord": 251.0
+                    },
+                    {
+                        "x_coord": 24.0,
+                        "y_coord": 251.0
+                    },
+                    {
+                        "x_coord": 24.0,
+                        "y_coord": 261.0
+                    },
+                    {
+                        "x_coord": 0.0,
+                        "y_coord": 261.0
+                    }
+                ],
+                "top_wall_obj_id": "bf04a8e6-dfcd-4223-84ca-a7c925fbd1e8",
+                "bottom_wall_obj_id": "26376a5d-578f-48ec-8553-79bbcdeaddd6",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "8d03078d-d5f2-47e0-82d6-c5ea3b56ebbb",
+                "object_confidence_score": 0.72,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 462.0,
+                        "y_coord": 987.0
+                    },
+                    {
+                        "x_coord": 906.0,
+                        "y_coord": 987.0
+                    },
+                    {
+                        "x_coord": 906.0,
+                        "y_coord": 1001.0
+                    },
+                    {
+                        "x_coord": 462.0,
+                        "y_coord": 1001.0
+                    }
+                ],
+                "top_wall_obj_id": "ea9a6aeb-4a1a-4bc8-bd75-304eebd70466",
+                "bottom_wall_obj_id": "d4b1a2ba-9899-4f07-963e-bd9c4584e0f4",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "5bc89e97-e3bc-4129-b64a-934a7d93a4ab",
+                "object_confidence_score": 0.76,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 0.0,
+                        "y_coord": 130.0
+                    },
+                    {
+                        "x_coord": 24.0,
+                        "y_coord": 130.0
+                    },
+                    {
+                        "x_coord": 24.0,
+                        "y_coord": 143.0
+                    },
+                    {
+                        "x_coord": 0.0,
+                        "y_coord": 143.0
+                    }
+                ],
+                "top_wall_obj_id": "dbcdf60a-240a-4bea-a5d6-1378a6e08747",
+                "bottom_wall_obj_id": "bc815f41-3e35-4301-927b-95e954f04e66",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "93fb099d-af41-45c1-a3ec-cb4ce7f78d31",
+                "object_confidence_score": 0.77,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 613.0,
+                        "y_coord": 717.0
+                    },
+                    {
+                        "x_coord": 623.0,
+                        "y_coord": 717.0
+                    },
+                    {
+                        "x_coord": 623.0,
+                        "y_coord": 739.0
+                    },
+                    {
+                        "x_coord": 613.0,
+                        "y_coord": 739.0
+                    }
+                ],
+                "top_wall_obj_id": "8661c009-a11e-4739-a017-6f18eeb2a79a",
+                "bottom_wall_obj_id": "0b72aa5c-9266-46f5-b7f8-85ea0a395ef7",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "f07f0e4c-4c4d-49e9-a9ee-0b7b136021b2",
+                "object_confidence_score": 0.8,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 732.0,
+                        "y_coord": 716.0
+                    },
+                    {
+                        "x_coord": 746.0,
+                        "y_coord": 716.0
+                    },
+                    {
+                        "x_coord": 746.0,
+                        "y_coord": 738.0
+                    },
+                    {
+                        "x_coord": 732.0,
+                        "y_coord": 738.0
+                    }
+                ],
+                "top_wall_obj_id": "8386149d-c01b-4e9a-ae9f-cc9849c81047",
+                "bottom_wall_obj_id": "e6d45115-458d-4da1-b731-c481f4cda1af",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "8c47ffd7-42de-4f5f-a268-1aa74326c86b",
+                "object_confidence_score": 0.85,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 2.0,
+                        "y_coord": 261.0
+                    },
+                    {
+                        "x_coord": 17.0,
+                        "y_coord": 261.0
+                    },
+                    {
+                        "x_coord": 17.0,
+                        "y_coord": 346.0
+                    },
+                    {
+                        "x_coord": 2.0,
+                        "y_coord": 346.0
+                    }
+                ],
+                "top_wall_obj_id": "dac39ff6-b1fe-4ac0-b2ca-2b0290d3487c",
+                "bottom_wall_obj_id": "bf8b73bb-c4a7-4fe4-b382-294870331fa0",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "3ef0370f-5139-4bdf-a045-96d25d959c11",
+                "object_confidence_score": 0.87,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 1.0,
+                        "y_coord": 5.0
+                    },
+                    {
+                        "x_coord": 18.0,
+                        "y_coord": 5.0
+                    },
+                    {
+                        "x_coord": 18.0,
+                        "y_coord": 136.0
+                    },
+                    {
+                        "x_coord": 1.0,
+                        "y_coord": 136.0
+                    }
+                ],
+                "top_wall_obj_id": "ac294c4f-7851-4fdd-aaea-1b4f04e8366e",
+                "bottom_wall_obj_id": "160b5056-9ee4-4c47-92ad-b4e912847054",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "23433d25-260c-48aa-8c6b-ff7c738dec6b",
+                "object_confidence_score": 0.87,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 620.0,
+                        "y_coord": 329.0
+                    },
+                    {
+                        "x_coord": 632.0,
+                        "y_coord": 329.0
+                    },
+                    {
+                        "x_coord": 632.0,
+                        "y_coord": 355.0
+                    },
+                    {
+                        "x_coord": 620.0,
+                        "y_coord": 355.0
+                    }
+                ],
+                "top_wall_obj_id": "cd59a6bf-4ffd-44d0-94ef-930b4e558bbf",
+                "bottom_wall_obj_id": "96aa189d-ca17-4460-a00d-88d00844cc1d",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "879a3738-59cd-4e4d-85d4-d12930bd5862",
+                "object_confidence_score": 0.89,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 9.0,
+                        "y_coord": 334.0
+                    },
+                    {
+                        "x_coord": 502.0,
+                        "y_coord": 334.0
+                    },
+                    {
+                        "x_coord": 502.0,
+                        "y_coord": 350.0
+                    },
+                    {
+                        "x_coord": 9.0,
+                        "y_coord": 350.0
+                    }
+                ],
+                "top_wall_obj_id": "4faef5a3-ecc8-4a7d-a8aa-69436856e738",
+                "bottom_wall_obj_id": "ac872232-53b7-4373-baab-0ecc83f2ca50",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "b8f0315a-9e14-46c7-9b58-d5252163fc7c",
+                "object_confidence_score": 0.91,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 749.0,
+                        "y_coord": 351.0
+                    },
+                    {
+                        "x_coord": 763.0,
+                        "y_coord": 351.0
+                    },
+                    {
+                        "x_coord": 763.0,
+                        "y_coord": 732.0
+                    },
+                    {
+                        "x_coord": 749.0,
+                        "y_coord": 732.0
+                    }
+                ],
+                "top_wall_obj_id": "e21afe4f-b1bd-4720-9095-59cc5e745793",
+                "bottom_wall_obj_id": "a72f8d7d-994c-4142-a1c4-c89fb47a2a3f",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "38f1c258-2150-409b-997e-2d68d0a2102c",
+                "object_confidence_score": 0.92,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 439.0,
+                        "y_coord": 719.0
+                    },
+                    {
+                        "x_coord": 615.0,
+                        "y_coord": 719.0
+                    },
+                    {
+                        "x_coord": 615.0,
+                        "y_coord": 733.0
+                    },
+                    {
+                        "x_coord": 439.0,
+                        "y_coord": 733.0
+                    }
+                ],
+                "top_wall_obj_id": "752035e1-e652-49d3-89d4-f5870d11b7e0",
+                "bottom_wall_obj_id": "3604d536-379f-42d2-80b0-f4a87dd24bc3",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            },
+            {
+                "object_id": "45eb7898-f25b-4ae9-9539-8b7b750467f8",
+                "object_confidence_score": 0.93,
+                "category": "walls",
+                "category_id": 0,
+                "vertices": [
+                    {
+                        "x_coord": 634.0,
+                        "y_coord": 334.0
+                    },
+                    {
+                        "x_coord": 937.0,
+                        "y_coord": 334.0
+                    },
+                    {
+                        "x_coord": 937.0,
+                        "y_coord": 350.0
+                    },
+                    {
+                        "x_coord": 634.0,
+                        "y_coord": 350.0
+                    }
+                ],
+                "top_wall_obj_id": "2b25a632-e011-405f-8442-6771f8639370",
+                "bottom_wall_obj_id": "99ebf99b-8d87-4ede-b35f-6225cbcd44e7",
+                "wall_height": 100.2,
+                "scale_factor": 1
+            }
+        ],
+        "scaling_factor": 10,
+        "floor_height": 12.525,
+        "wall_length": 1002.0,
+        "wall_height": 100.2,
+        "floor": {
+            "initialX": 0.0,
+            "initialY": 0.0,
+            "finalX": 955.0,
+            "finalY": 1002.0,
+            "scale_x": 955.0,
+            "scale_y": 1002.0,
+            "scale_z": 12.525,
+            "centre_x": 477.5,
+            "centre_y": 501.0,
+            "object_id": "e15dc341-1c86-4d16-8b80-13460e47725a"
+        }
+    },
+    "Texts": []
+}
